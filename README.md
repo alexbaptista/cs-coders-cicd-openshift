@@ -1,3 +1,5 @@
+<div style="text-align:center"><img src="openshift_logo.png" align="middle" width="250"></div>
+
 # cs-coders-cicd-openshift
 
 Exemplo de criação de uma infraestrutura de CI/CD no Openshift
