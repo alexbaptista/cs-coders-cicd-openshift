@@ -17,6 +17,7 @@ Exemplo de criação de uma infraestrutura de CI/CD no Openshift
 * Jenkins 2
 * Nexus 3
 * SonarQube 6.7
+* Pipeline CI/CD - https://github.com/alexbaptista/cs-coders-spring-app
 
 ## Executando
 
